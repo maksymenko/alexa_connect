@@ -1,2 +1,5 @@
 src/node_modules  
 src/*.zip
+.history/
+src/firebase_config.json
+src/service_account.json

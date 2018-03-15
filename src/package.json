@@ -23,7 +23,11 @@
   "homepage": "https://github.com/alexa/skill-sample-nodejs-hello-world#readme",
   "dependencies": {
     "alexa-sdk": "^1.0.25",
-    "request": "^2.83.0",
+    "async": "^2.6.0",
+    "firebase": "^4.11.0",
+    "firebase-admin": "^5.10.0",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2",
     "sync-request": "^6.0.0"
   }
 }
